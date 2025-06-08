@@ -31,6 +31,16 @@ You can add a screenshot of the output here:
 Make sure you have the required libraries installed:
 
 ``` pip install pandas matplotlib cartopy numpy ```
+
 Then run the script:
 
 ``` python iran_map.py ```
+
+## Sample CSV Format
+
+```
+City,Latitude,Longitude,Population
+Tehran,35.6892,51.3890,8846782
+Mashhad,36.2605,59.6168,3074520
+Isfahan,32.6525,51.6746,1961260
+...```
