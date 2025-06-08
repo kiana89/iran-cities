@@ -26,3 +26,11 @@ iran_cities.csv: A CSV file containing city names, latitude, longitude, and popu
 ## Sample Output (optional)
 You can add a screenshot of the output here:
 ![Iran Map](output.png)
+
+## How to Run
+Make sure you have the required libraries installed:
+
+``` pip install pandas matplotlib cartopy numpy ```
+Then run the script:
+
+``` python iran_map.py ```
